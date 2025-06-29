@@ -1,0 +1,15 @@
+E:\ForGIT\QAC07-onl\Lesson 3\Task1_Kayumov\Task1_Kayumov\obj\Debug\net8.0\Task1_Kayumov.GeneratedMSBuildEditorConfig.editorconfig
+E:\ForGIT\QAC07-onl\Lesson 3\Task1_Kayumov\Task1_Kayumov\obj\Debug\net8.0\Task1_Kayumov.AssemblyInfoInputs.cache
+E:\ForGIT\QAC07-onl\Lesson 3\Task1_Kayumov\Task1_Kayumov\obj\Debug\net8.0\Task1_Kayumov.AssemblyInfo.cs
+E:\ForGIT\QAC07-onl\Lesson 3\Task1_Kayumov\Task1_Kayumov\obj\Debug\net8.0\Task1_Kayumov.csproj.CoreCompileInputs.cache
+E:\ForGIT\QAC07-onl\Lesson 3\Task1_Kayumov\Task1_Kayumov\obj\Debug\net8.0\Task1_Kayumov.sourcelink.json
+E:\ForGIT\QAC07-onl\Lesson 3\Task1_Kayumov\Task1_Kayumov\bin\Debug\net8.0\Task1_Kayumov.exe
+E:\ForGIT\QAC07-onl\Lesson 3\Task1_Kayumov\Task1_Kayumov\bin\Debug\net8.0\Task1_Kayumov.deps.json
+E:\ForGIT\QAC07-onl\Lesson 3\Task1_Kayumov\Task1_Kayumov\bin\Debug\net8.0\Task1_Kayumov.runtimeconfig.json
+E:\ForGIT\QAC07-onl\Lesson 3\Task1_Kayumov\Task1_Kayumov\bin\Debug\net8.0\Task1_Kayumov.dll
+E:\ForGIT\QAC07-onl\Lesson 3\Task1_Kayumov\Task1_Kayumov\bin\Debug\net8.0\Task1_Kayumov.pdb
+E:\ForGIT\QAC07-onl\Lesson 3\Task1_Kayumov\Task1_Kayumov\obj\Debug\net8.0\Task1_Kayumov.dll
+E:\ForGIT\QAC07-onl\Lesson 3\Task1_Kayumov\Task1_Kayumov\obj\Debug\net8.0\refint\Task1_Kayumov.dll
+E:\ForGIT\QAC07-onl\Lesson 3\Task1_Kayumov\Task1_Kayumov\obj\Debug\net8.0\Task1_Kayumov.pdb
+E:\ForGIT\QAC07-onl\Lesson 3\Task1_Kayumov\Task1_Kayumov\obj\Debug\net8.0\Task1_Kayumov.genruntimeconfig.cache
+E:\ForGIT\QAC07-onl\Lesson 3\Task1_Kayumov\Task1_Kayumov\obj\Debug\net8.0\ref\Task1_Kayumov.dll

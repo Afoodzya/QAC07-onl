@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=rider,csharp
 
 .DS_Store
+.idea/
 
 ### Csharp ###
 ## Ignore Visual Studio temporary files, build results, and
